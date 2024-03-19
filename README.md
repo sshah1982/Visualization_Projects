@@ -1,2 +1,2 @@
-# Visualization_Projects
+# Visualization Projects
 Data Visualization Projects using Python libraries
